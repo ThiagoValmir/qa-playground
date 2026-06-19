@@ -9,7 +9,7 @@
 | Modules Tested      | Sign Up and Sign In |
 | Tester              | Thiago              |
 | Test Cycle          | Cycle 1             |
-| Test Execution Date | YYYY-MM-DD          |
+| Test Execution Date | 2026-06-19          |
 
 ---
 
